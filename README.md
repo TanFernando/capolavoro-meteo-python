@@ -16,8 +16,8 @@ Prima di iniziare, assicurati di avere installato:
 
 1.  **Clona il repository (o scarica i file):**
     ```bash
-    git clone [https://github.com/IlTuoUsername/NomeDelTuorRepository.git](https://github.com/IlTuoUsername/NomeDelTuorRepository.git)
-    cd NomeDelTuorRepository
+    git clone [https://github.com/TanFernando/capolavoro-meteo-python.git]
+    cd capolavoro-meteo-python
     ```
     (Sostituisci `IlTuoUsername` e `NomeDelTuorRepository` con i valori corretti del tuo account GitHub e del nome del tuo repository.)
 
