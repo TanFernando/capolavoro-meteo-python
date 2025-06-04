@@ -19,7 +19,6 @@ Prima di iniziare, assicurati di avere installato:
     git clone [https://github.com/TanFernando/capolavoro-meteo-python.git]
     cd capolavoro-meteo-python
     ```
-    (Sostituisci `IlTuoUsername` e `NomeDelTuorRepository` con i valori corretti del tuo account GitHub e del nome del tuo repository.)
 
 2.  **Installa le dipendenze:**
     Assicurati di avere `pip` (il gestore di pacchetti di Python) aggiornato e installa la libreria `requests` necessaria per le chiamate API:
