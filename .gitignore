@@ -1,0 +1,10 @@
+# File di configurazione con la chiave API
+config.py
+
+# Cartelle di cache di Python
+__pycache__/
+*.pyc
+
+# Eventuali file di ambiente virtuale (se ne usi uno in futuro)
+# venv/
+# .venv/
